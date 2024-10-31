@@ -22,5 +22,5 @@ persona.carrera = "Ingeniería en sistemas";
 console.log(persona);
 
 //saludar
-persona.saludar
+persona.saludar();
 
