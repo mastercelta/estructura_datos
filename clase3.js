@@ -28,3 +28,7 @@ persona.saludar();
 delete persona.trabaja;
 console.log(persona);
 
+//Existe el atributo en el objeto
+console.log(persona.hasOwnProperty('nombre'));
+//No existe
+console.log(persona.hasOwnProperty('apellido'));
