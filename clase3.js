@@ -24,3 +24,7 @@ console.log(persona);
 //saludar
 persona.saludar();
 
+//Eliminar una propiedad del objeto
+delete persona.trabaja;
+console.log(persona);
+
