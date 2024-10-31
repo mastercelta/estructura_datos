@@ -5,9 +5,14 @@
 var nombre = "Juan Camilo";
 console.log(nombre);
 
+
 //Number
 var edad = 20;
 console.log(edad);
+
+//Float
+var altura = 1.75;
+console.log(altura);
 
 //Boolean
 var esEstudiante = true;
