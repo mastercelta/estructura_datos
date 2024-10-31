@@ -13,6 +13,7 @@ console.log(persona.nombre);
 console.log(persona.edad);
 console.log(persona.trabaja);
 
-persona.pelo = "pelo";
+//Agregar propiedades al objeto
+persona.carrera = "Ingeniería en sistemas";
 
 console.log(persona);
