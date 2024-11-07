@@ -47,8 +47,7 @@ const tienda = {
     }
 };
 
-//Inicializar la tienda
-let activar = true;
+
 //Inicializar promps
 const readline = require('readline');
 
